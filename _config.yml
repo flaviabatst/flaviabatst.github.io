@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Flávia Batista da Silva"
+title                    : "Flávia Batista"
 title_separator          : "-"
 name                     : &name "Flávia Batista da Silva"
 description              : &description "Ph.D. Student at the University of Maryland, College Park"
