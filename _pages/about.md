@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "About me"
+title: "About me/Sobre mim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About me
-Flávia Batista is a Ph.D. student in the Department of Government and Politics at the University of Maryland, College Park. Her research focuses on comparative political behavior in Latin America, with particular attention to polarization, misinformation, and democratic backsliding. She is interested in applying computational and experimental methods to study individuals' attitudes towards democracy and has recently extended her focus to the study of impeachment. At UMD, Flávia is a member of the Interdisciplinary Laboratory of Computational Social Science (iLCSS) and the Latin American and Caribbean Studies Center (LASC). She also earned an M.A. in Government and Politics at UMD as part of her Ph.D. program. Prior to her doctoral journey at UMD, Flávia earned an M.A. in Brazilian Studies from the University of Illinois at Urbana-Champaign (UIUC) and a B.A. in International Relations from the University of Brasília (UnB).
+Hi everyone, welcome to my website!
 
-## Sobre mim
+My name is Flávia Batista, and I'm currently pursuing a Ph.D. in the Department of Government and Politics at the University of Maryland, College Park. My research explores comparative political behavior in Latin America, with a specific focus on polarization, misinformation, and democratic backsliding. I am particularly interested in employing computational and experimental methods to examine individuals' attitudes towards democracy, and I have recently expanded my research to include the study of impeachment. At UMD, I am an active member of the Interdisciplinary Laboratory of Computational Social Science (iLCSS) and the Latin American and Caribbean Studies Center (LASC). I also hold an M.A. in Government and Politics from UMD, which I earned as part of my Ph.D. program. Before joining UMD, I completed an M.A. in Brazilian Studies from the University of Illinois at Urbana-Champaign (UIUC) and a B.A. in International Relations from the University of Brasília (UnB).
 
-Flávia Batista é doutoranda no Departamento de Governo e Política da Universidade de Maryland, College Park. Sua pesquisa foca no comportamento político comparado na América Latina, com particular atenção à polarização, desinformação e retrocesso democrático. Ela está interessada em aplicar métodos computacionais e experimentais para estudar as atitudes dos indivíduos em relação à democracia e recentemente ampliou seu foco para o estudo do impeachment. Na UMD, Flávia é parte do Laboratório Interdisciplinar de Ciência Social Computacional (iLCSS) e do Centro de Estudos Latino-Americanos e Caribenhos (LASC). Ela também obteve um Mestrado em Governo e Política na UMD como parte de seu programa de doutorado. Antes do doutorado na UMD, Flávia obteve um Mestrado em Estudos Brasileiros pela Universidade de Illinois em Urbana-Champaign (UIUC) e um Bacharelado em Relações Internacionais pela Universidade de Brasília (UnB). 
+Beyond my academic pursuits, I am a big lover of soccer (or football, elsewhere) and a die-hard Flamengo devotee, with a wardrobe bursting with over 60 Flamengo pieces—and counting. In the past, I used to have a YouTube channel dedicated to Flamengo where I discussed and analyzed all games. When I'm not chanting for Flamengo, I am probably traveling, listening to some music, or working out at the gym.
+
+Oi pessoal, bem vindos ao meu site!
+
+Eu sou Flávia Batista, doutoranda no Departamento de Governo e Política da Universidade de Maryland, College Park. Minha pesquisa explora o comportamento político comparado na América Latina, com especial atenção à polarização, desinformação e retrocesso democrático. Estou interessada em aplicar métodos computacionais e experimentais para estudar as atitudes dos indivíduos em relação à democracia e recentemente ampliei meu foco para o estudo do impeachment. Na UMD, sou parte do Laboratório Interdisciplinar de Ciência Social Computacional (iLCSS) e do Centro de Estudos Latino-Americanos e Caribenhos (LASC). Também obtive um Mestrado em Governo e Política na UMD como parte do meu programa de doutorado. Antes de ingressar no doutorado na UMD, concluí um Mestrado em Estudos Brasileiros pela Universidade de Illinois em Urbana-Champaign (UIUC) e um Bacharelado em Relações Internacionais pela Universidade de Brasília (UnB).
+
+Além das minhas atividades acadêmicas, sou uma grande amante de futebol e uma torcedora fervorosa do Flamengo, com um guarda-roupa repleto de mais de 60 peças do Flamengo—e contando. No passado, eu tive um canal no YouTube dedicado ao Flamengo, onde discutia e analisava todos os jogos. Quando não estou torcendo pelo Flamengo, provavelmente estou viajando, ouvindo música ou malhando na academia.
+
+You can reach out to me at fbatista@umd.edu/ Você pode entrar em contato comigo pelo e-mail fbatista@umd.edu :)
