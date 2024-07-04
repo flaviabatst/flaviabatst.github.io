@@ -9,8 +9,6 @@ redirect_from:
 
 Hi everyone, welcome to my website!
 
-Hi everyone, welcome to my website!
-
 My name is Flávia Batista, and I'm currently pursuing a Ph.D. in the [Department of Government and Politics](https://gvpt.umd.edu/) at the University of Maryland, College Park. My research explores comparative political behavior in Latin America, with a specific focus on polarization, misinformation, and democratic backsliding. I am particularly interested in employing computational and experimental methods to examine individuals' attitudes towards democracy, and I have recently expanded my research to include the study of impeachment. At UMD, I am an active member of the [Interdisciplinary Laboratory of Computational Social Science (iLCSS)](https://ilcss.umd.edu/) and the [Latin American and Caribbean Studies Center (LASC)](https://www.lasc.umd.edu/). I also hold an M.A. in Government and Politics from UMD, which I earned as part of my Ph.D. program. Before joining UMD, I completed an M.A. in [Brazilian Studies from the University of Illinois at Urbana-Champaign (UIUC)](https://lemann.illinois.edu/) and a B.A. in [International Relations from the University of Brasília (UnB)](https://irel.unb.br/).
 
 
