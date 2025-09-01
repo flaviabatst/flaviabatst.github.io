@@ -65,14 +65,6 @@ a:hover {
     color: #a00a0a; /* darker red on hover */
 }
 
-/* Sidebar & Cards */
-.sidebar, .card {
-    border: 1px solid #cccccc; /* subtle gray border */
-    border-radius: 8px;
-    padding: 1em;
-    margin-bottom: 1.5em;
-}
-
 /* Tables */
 table {
     border-collapse: collapse;
