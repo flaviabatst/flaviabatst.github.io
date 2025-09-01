@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Framing fact-checks as a “confirmation” increases engagement with corrections of misinformation: A four-country study"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1](https://www.nature.com/articles/s41598-024-53337-0)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
