@@ -10,8 +10,8 @@ You can also find my articles on my [Google Scholar profile]({{ site.author.goog
 {% endif %}
 
 ## Published
-- Aruguete, N., Batista, Flavia., Calvo, E., Guizzo-Altube, M., Scartascini, C., & Ventura, T. (2024). *Framing fact-checks as a “confirmation” increases engagement with corrections of misinformation: A four-country study.* Scientific Reports, 14(1), 3201.  
-
+- Aruguete, N., Batista, Flavia., Calvo, E., Guizzo-Altube, M., Scartascini, C., & Ventura, T. (2024). *[Framing fact-checks as a “confirmation” increases engagement with corrections of misinformation: A four-country study](https://doi.org/10.1038/s41598-024-3201).* Scientific Reports, 14(1), 3201.
+ 
 - Batista, Flavia., F.T. Batista, Carolina., Calvo, Ernesto (2025). R&R. *Affective Polarization and Support for Democratic Institutions: Evidence from Survey Experiment in Brazil, Chile, and Colombia.* Manuscript submitted for publication.  
 
 ## Under Review
