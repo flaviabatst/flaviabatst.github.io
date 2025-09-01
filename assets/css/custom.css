@@ -1,19 +1,21 @@
 /* =========================
-   Custom Flamengo Academic Style
+   Clean Academic Style
    ========================= */
 
 /* Body & Text */
 body {
-    background-color: #ffffff;  /* clean white background */
-    color: #111111;             /* dark text for readability */
+    background-color: #ffffff;  /* white background */
+    color: #000000;             /* black text */
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.6;
 }
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
-    color: #e30613; /* Flamengo red */
-    font-weight: 600;
+    color: #000000; /* black headers */
+    font-weight: 700; /* bold headers */
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 /* Paragraphs */
@@ -29,60 +31,43 @@ a {
 }
 
 a:hover {
-    color: #ffc72c; /* yellow hover */
     text-decoration: underline;
+    color: #a00a0a; /* darker red on hover */
 }
 
 /* Masthead / Navbar */
 .masthead {
-    background-color: #000000; /* black navbar */
-    color: #ffffff;
+    background-color: #ffffff; /* white navbar */
+    color: #000000;
 }
 
 .masthead a {
-    color: #ffc72c; /* yellow links */
-    font-weight: 500;
+    color: #e30613; /* red links */
+    font-weight: 600;
 }
 
 .masthead a:hover {
-    color: #e30613; /* red on hover */
+    color: #a00a0a; /* darker red on hover */
 }
 
 /* Footer */
 .page__footer {
-    background-color: #000000; /* black footer */
-    color: #ffffff;
+    background-color: #f5f5f5; /* light gray footer */
+    color: #000000;
     padding: 2em 1em;
 }
 
 .page__footer a {
-    color: #ffc72c; /* yellow links in footer */
+    color: #e30613; /* red links in footer */
 }
 
 .page__footer a:hover {
-    color: #e30613; /* red on hover */
-}
-
-/* Buttons */
-button, .btn {
-    background-color: #e30613; /* red buttons */
-    color: #ffffff;
-    border: none;
-    padding: 0.5em 1em;
-    border-radius: 5px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out;
-}
-
-button:hover, .btn:hover {
-    background-color: #ffc72c; /* yellow hover */
-    color: #000000;
+    color: #a00a0a; /* darker red on hover */
 }
 
 /* Sidebar & Cards */
 .sidebar, .card {
-    border: 1px solid #e30613; /* subtle red border */
+    border: 1px solid #cccccc; /* subtle gray border */
     border-radius: 8px;
     padding: 1em;
     margin-bottom: 1.5em;
@@ -96,19 +81,18 @@ table {
 }
 
 th, td {
-    border: 1px solid #e30613; /* subtle red lines */
+    border: 1px solid #cccccc;
     padding: 0.5em 1em;
 }
 
 th {
-    background-color: #ffc72c; /* yellow header */
-    color: #000000;
-    font-weight: 600;
+    background-color: #f0f0f0; /* light gray header */
+    font-weight: 700;
 }
 
 /* Highlights / Callouts */
 .highlight {
-    background-color: #ffc72c;
+    background-color: #ffffcc; /* subtle yellow */
     color: #000000;
     padding: 0.5em 1em;
     border-radius: 5px;
@@ -118,7 +102,7 @@ th {
 /* Code Blocks */
 pre, code {
     background-color: #f5f5f5;
-    color: #e30613; /* red for code highlights */
+    color: #000000;
     padding: 0.3em 0.5em;
     border-radius: 4px;
     font-family: "Courier New", Courier, monospace;
