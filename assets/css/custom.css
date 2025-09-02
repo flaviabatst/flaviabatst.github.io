@@ -4,11 +4,14 @@
 
 /* Body & Text */
 body {
-    background-color: #ffffff;  /* white background */
-    color: #000000;             /* black text */
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+        url("images/flamengo.jpg") center/cover no-repeat;
+    color: #ffffff; /* ensures text is readable over the image */
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.6;
 }
+
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
