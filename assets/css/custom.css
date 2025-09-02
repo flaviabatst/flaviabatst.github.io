@@ -2,17 +2,22 @@
    Clean Academic Style
    ========================= */
 
-/* Body & Text */
+/* 1️⃣ Default styles for all pages */
 body {
-    background: 
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("https://flaviabatst.github.io/images/flamengo2.jpg") center/cover no-repeat;
-    color: #ffffff;
+    background-color: #ffffff; /* white background */
+    color: #000000;            /* black text */
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.6;
+    margin: 0; /* optional, removes default body margin */
 }
 
-
+/* 2️⃣ About Me page styles (Flamengo background + white text) */
+body.about-page {
+    background: 
+        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), /* dark overlay */
+        url("https://flaviabatst.github.io/images/flamengo2.jpg") center/cover no-repeat;
+    color: #ffffff; /* white text for readability */
+}
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
