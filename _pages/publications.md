@@ -35,7 +35,7 @@ You can also find my articles on my [Google Scholar profile]({{ site.author.goog
 - Batista, Flavia. (2025). *Eroding Democracy from Below: Instrumental Impeachment in Brazil and Colombia.* Dissertation chapter. Manuscript being prepared for publication. 
 
 - Batista, Flavia. (2025). *It’s All About the Audience (and a Bit About the Framing): Citizens’ Impeachment Calculus in Brazil and Colombia.* Dissertation chapter.
-- 
+  
 - Batista, Flavia., Venturelli, Gustavo. (2025). *Impeachment as a Driver of Backsliding: Evidence from Brazil.* Manuscript being prepared for publication.
   
 
